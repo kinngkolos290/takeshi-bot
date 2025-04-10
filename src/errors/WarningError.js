@@ -2,7 +2,7 @@
  * Classe de erro customizada para
  * avisos.
  *
- * @author Dev Gui
+ * @author Dev destructor 
  */
 class WarningError extends Error {
   constructor(message) {
