@@ -2,7 +2,7 @@
  * Classe de erro customizada para
  * erros críticos.
  *
- * @author Dev Gui
+ * @author Dev destructor 
  */
 class DangerError extends Error {
   constructor(message) {
