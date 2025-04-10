@@ -2,7 +2,7 @@
  * Interceptadores de validação
  * de permissões de usuários.
  *
- * @author Dev Gui
+ * @author Dev destructor 
  */
 const { OWNER_NUMBER } = require("../config");
 
