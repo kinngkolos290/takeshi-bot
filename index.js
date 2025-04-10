@@ -1,4 +1,4 @@
-/*
+/* emperor destructor 
  * Se você clicou aqui é porque provavelmente já usou um bot de "case" e com um "index.js" de 20 mil linhas...
  * Eu sei, eu entendo você!
  * O que é melhor? Dar erro no seu play, você ir no arquivo "play.js" e corrigir
