@@ -4,7 +4,7 @@
  * que serão escutados pelo
  * socket do WhatsApp.
  *
- * @author Dev Gui
+ * @author Dev destructor 
  */
 const { TIMEOUT_IN_MILLISECONDS_BY_EVENT } = require("./config");
 const { onMessagesUpsert } = require("./middlewares/onMesssagesUpsert");
