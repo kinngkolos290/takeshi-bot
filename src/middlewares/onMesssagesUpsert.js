@@ -2,7 +2,7 @@
  * Evento chamado quando uma mensagem
  * é enviada para o grupo do WhatsApp
  *
- * @author Dev Gui
+ * @author Dev destructor 
  */
 const {
   isAtLeastMinutesInPast,
