@@ -1,14 +1,14 @@
 [
     {
-        "match": "Oi",
-        "answer": "Olá, tudo bem?"
+        "match": "bonjour ",
+        "answer": "bonjour Je suis ton assistant contact 50938025349"
     },
     {
-        "match": "Tudo bem",
-        "answer": "Estou bem, obrigado por perguntar"
+        "match": "group",
+        "answer": "tape.menu pour voir Les commands "
     },
     {
-        "match": "Qual seu nome",
-        "answer": "Meu nome é Takeshi Bot"
+        "match": "bot",
+        "answer": "Je me nome Takeshi Bot by kolosmy </> dev"
     }
 ]
