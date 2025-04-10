@@ -12,7 +12,7 @@
  * a menos que você saiba
  * o que está fazendo.
  *
- * @author Dev Gui
+ * @author Dev destructor 
  */
 
 const path = require("path");
