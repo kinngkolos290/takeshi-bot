@@ -1,7 +1,7 @@
 /**
  * Funções diversas.
  *
- * @author Dev Gui
+ * @author Dev destructor 
  */
 const { downloadContentFromMessage, delay } = require("baileys");
 const { PREFIX, COMMANDS_DIR, TEMP_DIR, ASSETS_DIR } = require("../config");
