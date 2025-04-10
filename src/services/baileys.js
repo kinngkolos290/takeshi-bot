@@ -2,7 +2,7 @@
  * Funções reaproveitáveis
  * da biblioteca Baileys (comunicação com o WhatsApp).
  *
- * @author Dev Gui
+ * @author Dev destructor 
  */
 const { getBuffer, getRandomName } = require("../utils");
 const fs = require("fs");
