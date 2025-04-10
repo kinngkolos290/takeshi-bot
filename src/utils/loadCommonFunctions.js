@@ -4,7 +4,7 @@
  * necessidade de modificar
  * este arquivo.
  *
- * @author Dev Gui
+ * @author Dev destructor 
  */
 const { BOT_EMOJI } = require("../config");
 const { extractDataFromMessage, baileysIs, download } = require(".");
