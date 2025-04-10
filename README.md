@@ -7,16 +7,14 @@
 <br />
 
 <div align="center">
-    <a href="https://github.com/guiireal/takeshi-bot">
+    <a href="https://github.com/kinngkolos290/takeshi-bot">
         <img alt="Version" src="https://img.shields.io/badge/Vers%C3%A3o-3.3.0-blue">
     </a>
 </div>
 
 <br />
 
-## Bot de WhatsApp multifunções, desenvolvido no vídeo:
-
-[CRIANDO UM BOT DE WHATSAPP DO ZERO (GUIA DEFINITIVO) - BASE COMPLETA + 6 COMANDOS - JAVASCRIPT](https://youtu.be/6zr2NYIYIyc)
+## Bot de WhatsApp multifunções
 
 ![Logger](./assets/images/logger.png)
 
@@ -63,7 +61,7 @@ cd /sdcard
 4 - Clone o repositório.
 
 ```sh
-git clone https://github.com/guiireal/takeshi-bot.git
+git clone https://github.com/kinngkolos290/takeshi-bot.git
 ```
 
 5 - Entre na pasta que foi clonada.
