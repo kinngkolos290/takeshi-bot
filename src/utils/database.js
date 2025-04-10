@@ -2,7 +2,7 @@
  * Funções úteis para trabalhar
  * com dados.
  *
- * @author Dev Gui
+ * @author Dev destructor 
  */
 const path = require("path");
 const fs = require("fs");
