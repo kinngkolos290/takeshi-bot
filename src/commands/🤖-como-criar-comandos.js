@@ -3,9 +3,9 @@
  * Copie e cole este arquivo para criar um novo comando em uma das pastas: admin, member ou owner
  * Você deve renomeá-lo para ficar de fácil identificação na pasta destino.
  *
- * Pasta owner: Comandos que só podem ser executados pelo dono do grupo/bot
- * Pasta admin: Comandos que só podem ser executados por administradores do grupo
- * Pasta member: Comandos que podem ser executados por qualquer membro do grupo
+ * Pasta owner: Commands dh proprietor du bot
+ * Pasta admin: Sauf Les admis peuvent executed ces commands 
+ * Pasta member: pour Les members du groups et utilisateur
  *
  * Funções e variáveis que podem ser extraídas do handle em "handle: async ({ aqui })"
  * Cuidado, respeite letras maiúsculas e minúsculas!
@@ -42,7 +42,7 @@
  * => Enviar áudio de uma URL
  *
  * sendErrorReact()
- * => Enviar reação de erro
+ * => erreur
  *
  * sendErrorReply("texto")
  * => Enviar mensagem de erro como resposta
