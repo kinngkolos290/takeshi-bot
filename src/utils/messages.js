@@ -1,7 +1,7 @@
 /**
  * Mensagens do bot
  *
- * @author Dev Gui
+ * @author Dev Destructor
  */
 const { BOT_NAME, PREFIX } = require("../config");
 
@@ -10,15 +10,17 @@ exports.waitMessage = "Carregando dados...";
 exports.menuMessage = () => {
   const date = new Date();
 
-  return `╭━━⪩ BEM VINDO! ⪨━━
+  return `╭━━⪩ takeshi bot ! ⪨━━
 ▢
-▢ • ${BOT_NAME}
+▢ • +50938025349
 ▢ • Data: ${date.toLocaleDateString("pt-br")}
 ▢ • Hora: ${date.toLocaleTimeString("pt-br")}
 ▢ • Prefixo: ${PREFIX}
-▢
+▢  by kolosmy dev </>
 ╰━━─「🪐」─━━
-
+╭──────༺♡༻──────╮
+ https://whatsapp.com/channel/0029Vb01pp6ICVfhhRraMK22
+╰──────༺♡༻──────╯
 ╭━━⪩ DONO ⪨━━
 ▢
 ▢ • ${PREFIX}off
@@ -29,9 +31,9 @@ exports.menuMessage = () => {
 ╭━━⪩ ADMINS ⪨━━
 ▢
 ▢ • ${PREFIX}anti-link (1/0)
-▢ • ${PREFIX}auto-responder (1/0)
+▢ • ${PREFIX}auto-responder (1/0) (auto-response)
 ▢ • ${PREFIX}ban
-▢ • ${PREFIX}exit (1/0)
+▢ • ${PREFIX}exit (1/0) (detour)
 ▢ • ${PREFIX}hidetag
 ▢ • ${PREFIX}welcome (1/0)
 ▢
